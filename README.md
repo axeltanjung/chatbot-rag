@@ -2,7 +2,7 @@
 
 A production-grade chatbot with Retrieval-Augmented Generation (RAG), vector database, and modern UI.
 
-**✨ Now using FREE models - No API key or credit card required!**
+**Now using FREE models - No API key or credit card required!**
 
 ## Features
 
