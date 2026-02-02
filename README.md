@@ -1,4 +1,4 @@
-# RAG Chatbot
+# RAG Chatbots
 
 A production-grade chatbot with Retrieval-Augmented Generation (RAG), vector database, and modern UI.
 
